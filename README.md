@@ -186,7 +186,7 @@ git remote add origin <github_url>
 git push -u origin main
 ```
 
-## create a account at circle ci
+## create an account at circle ci
 
 <a href="https://circleci.com/login/">Circle CI</a>
 
